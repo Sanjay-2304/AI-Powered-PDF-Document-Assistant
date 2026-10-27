@@ -2,7 +2,6 @@
 
 An AI-powered **PDF question-answering application** built with **Streamlit, LangChain, Groq, Hugging Face embeddings, and FAISS**. Upload one or more PDFs, create a shared searchable knowledge base, and ask questions grounded in the documents.
 
-![Streamlit RAG chatbot interface](assets/chatbot-demo.png)
 
 ## ✨ Features
 
